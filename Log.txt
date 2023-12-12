@@ -1,0 +1,910 @@
+Log 
+
+
+
+
+Nome: Thiago
+Fase 1
+31 Nota
+4 ErroComissao
+1 ErroOmissao
+
+Nome: Thiago
+Fase 1
+26 Nota
+10 ErroComissao
+7 ErroOmissao
+
+Nome: Thiago
+Fase 2
+23 Nota
+6 ErroComissao
+10 ErroOmissao
+
+Nome: Thiago
+Fase 3
+31 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 4
+35 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 5
+39 Nota
+5 ErroComissao
+1 ErroOmissao
+
+Nome: Thiago
+Fase 1
+32 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 1
+8 Nota
+14 ErroComissao
+9 ErroOmissao
+
+Nome: Thiago
+Fase 2
+33 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 3
+27 Nota
+4 ErroComissao
+4 ErroOmissao
+
+Nome: Thiago
+Fase 4
+35 Nota
+0 ErroComissao
+1 ErroOmissao
+
+Nome: Thiago
+Fase 5
+27 Nota
+8 ErroComissao
+12 ErroOmissao
+
+Nome: Thiago
+Fase 1
+45 Nota
+4 ErroComissao
+5 ErroOmissao
+
+Nome: Thiago
+Fase 2
+29 Nota
+4 ErroComissao
+4 ErroOmissao
+
+Nome: Thiago
+Fase 3
+31 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 4
+30 Nota
+9 ErroComissao
+6 ErroOmissao
+
+Nome: Thiago
+Fase 5
+40 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 1
+49 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 2
+33 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 3
+31 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 4
+32 Nota
+3 ErroComissao
+3 ErroOmissao
+
+Nome: Thiago
+Fase 5
+39 Nota
+1 ErroComissao
+1 ErroOmissao
+
+Nome: Thiago
+Fase 1
+49 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 2
+33 Nota
+2 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 3
+31 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 4
+35 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thiago
+Fase 5
+38 Nota
+3 ErroComissao
+2 ErroOmissao
+
+Nome: Thiago
+Fase 5
+38 Nota
+3 ErroComissao
+2 ErroOmissao
+
+Nome: Andre
+Fase 1
+38 Nota
+13 ErroComissao
+11 ErroOmissao
+
+Nome: Andre
+Fase 1
+0 Nota
+0 ErroComissao
+19 ErroOmissao
+
+Nome: Andre
+Fase 2
+33 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Andre
+Fase 2
+0 Nota
+19 ErroComissao
+1 ErroOmissao
+
+Nome: Andre
+Fase 3
+30 Nota
+1 ErroComissao
+1 ErroOmissao
+
+Nome: Andre
+Fase 4
+27 Nota
+4 ErroComissao
+10 ErroOmissao
+
+Nome: Andre
+Fase 5
+38 Nota
+0 ErroComissao
+2 ErroOmissao
+
+Nome: Andre
+Fase 0
+0 Nota
+19 ErroComissao
+0 ErroOmissao
+
+Nome: Andre
+Fase 1
+49 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Andre
+Fase 2
+30 Nota
+1 ErroComissao
+3 ErroOmissao
+
+Nome: Andre
+Fase 3
+28 Nota
+1 ErroComissao
+4 ErroOmissao
+
+Nome: Andre
+Fase 4
+35 Nota
+0 ErroComissao
+2 ErroOmissao
+
+Nome: Andre
+Fase 5
+40 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Bruno
+Fase 1
+48 Nota
+2 ErroComissao
+1 ErroOmissao
+
+Nome: Bruno
+Fase 2
+33 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Bruno
+Fase 3
+31 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Bruno
+Fase 4
+35 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Bruno
+Fase 5
+40 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Bruno
+Fase 1
+49 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Bruno
+Fase 2
+33 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Bruno
+Fase 3
+31 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Bruno
+Fase 4
+35 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Bruno
+Fase 5
+40 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Douglas
+Fase 1
+48 Nota
+1 ErroComissao
+1 ErroOmissao
+
+Nome: Douglas
+Fase 2
+32 Nota
+1 ErroComissao
+1 ErroOmissao
+
+Nome: Douglas
+Fase 3
+31 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Douglas
+Fase 4
+34 Nota
+2 ErroComissao
+1 ErroOmissao
+
+Nome: Douglas
+Fase 5
+40 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Yasmim
+Fase 1
+40 Nota
+10 ErroComissao
+10 ErroOmissao
+
+Nome: Yasmim
+Fase 2
+24 Nota
+11 ErroComissao
+9 ErroOmissao
+
+Nome: Yasmim
+Fase 3
+24 Nota
+9 ErroComissao
+7 ErroOmissao
+
+Nome: Yasmim
+Fase 4
+29 Nota
+6 ErroComissao
+6 ErroOmissao
+
+Nome: Yasmim
+Fase 5
+34 Nota
+7 ErroComissao
+6 ErroOmissao
+
+Nome: Matheus
+Fase 1
+48 Nota
+1 ErroComissao
+3 ErroOmissao
+
+Nome: Matheus
+Fase 2
+33 Nota
+0 ErroComissao
+3 ErroOmissao
+
+Nome: Matheus
+Fase 3
+30 Nota
+1 ErroComissao
+1 ErroOmissao
+
+Nome: Matheus
+Fase 4
+34 Nota
+1 ErroComissao
+1 ErroOmissao
+
+Nome: Matheus
+Fase 5
+40 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thais
+Fase 1
+49 Nota
+0 ErroComissao
+1 ErroOmissao
+
+Nome: Thais
+Fase 2
+33 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thais
+Fase 3
+31 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thais
+Fase 4
+35 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: Thais
+Fase 5
+40 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 1
+18 Nota
+26 ErroComissao
+2 ErroOmissao
+
+Nome: 
+Fase 2
+13 Nota
+2 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 3
+19 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 3
+31 Nota
+35 ErroComissao
+1 ErroOmissao
+
+Nome: 
+Fase 4
+37 Nota
+15 ErroComissao
+1 ErroOmissao
+
+Nome: 
+Fase 5
+47 Nota
+17 ErroComissao
+2 ErroOmissao
+
+Nome: 
+Fase 5
+49 Nota
+1 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 5
+42 Nota
+7 ErroComissao
+3 ErroOmissao
+
+Nome: 
+Fase 5
+2 Nota
+14 ErroComissao
+6 ErroOmissao
+
+Nome: 
+Fase 1
+38 Nota
+8 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 0
+21 Nota
+30 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 0
+0 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 1
+32 Nota
+13 ErroComissao
+1 ErroOmissao
+
+Nome: 
+Fase 2
+48 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 3
+53 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 4
+73 Nota
+1 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 5
+28 Nota
+18 ErroComissao
+7 ErroOmissao
+
+Nome: 
+Fase 5
+17 Nota
+20 ErroComissao
+9 ErroOmissao
+
+Nome: 
+Fase 5
+63 Nota
+27 ErroComissao
+15 ErroOmissao
+
+Nome: 
+Fase 5
+4 Nota
+21 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 1
+45 Nota
+15 ErroComissao
+5 ErroOmissao
+
+Nome: 
+Fase 0
+15 Nota
+28 ErroComissao
+1 ErroOmissao
+
+Nome: 
+Fase 1
+13 Nota
+6 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 2
+70 Nota
+5 ErroComissao
+3 ErroOmissao
+
+Nome: 
+Fase 5
+0 Nota
+0 ErroComissao
+19 ErroOmissao
+
+Nome: 
+Fase 5
+0 Nota
+0 ErroComissao
+19 ErroOmissao
+
+Nome: 
+Fase 1
+75 Nota
+6 ErroComissao
+1 ErroOmissao
+
+Nome: 
+Fase 2
+74 Nota
+12 ErroComissao
+2 ErroOmissao
+
+Nome: 
+Fase 1
+62 Nota
+8 ErroComissao
+2 ErroOmissao
+
+Nome: 
+Fase 1
+42 Nota
+11 ErroComissao
+7 ErroOmissao
+
+Nome: 
+Fase 2
+53 Nota
+21 ErroComissao
+24 ErroOmissao
+
+Nome: 
+Fase 3
+63 Nota
+17 ErroComissao
+17 ErroOmissao
+
+Nome: 
+Fase 3
+13 Nota
+11 ErroComissao
+16 ErroOmissao
+
+Nome: 
+Fase 3
+33 Nota
+16 ErroComissao
+21 ErroOmissao
+
+Nome: 
+Fase 4
+73 Nota
+10 ErroComissao
+10 ErroOmissao
+
+Nome: 
+Fase 5
+57 Nota
+14 ErroComissao
+11 ErroOmissao
+
+Nome: 
+Fase 1
+64 Nota
+2 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 2
+64 Nota
+15 ErroComissao
+13 ErroOmissao
+
+Nome: 
+Fase 3
+65 Nota
+14 ErroComissao
+12 ErroOmissao
+
+Nome: 
+Fase 4
+61 Nota
+9 ErroComissao
+21 ErroOmissao
+
+Nome: 
+Fase 5
+60 Nota
+21 ErroComissao
+19 ErroOmissao
+
+Nome: 
+Fase 0
+1 Nota
+13 ErroComissao
+8 ErroOmissao
+
+Nome: 
+Fase 1
+47 Nota
+5 ErroComissao
+5 ErroOmissao
+
+Nome: 
+Fase 1
+0 Nota
+11 ErroComissao
+8 ErroOmissao
+
+Nome: 
+Fase 2
+62 Nota
+10 ErroComissao
+15 ErroOmissao
+
+Nome: 
+Fase 2
+0 Nota
+0 ErroComissao
+19 ErroOmissao
+
+Nome: 
+Fase 3
+73 Nota
+6 ErroComissao
+8 ErroOmissao
+
+Nome: 
+Fase 3
+2 Nota
+4 ErroComissao
+16 ErroOmissao
+
+Nome: 
+Fase 4
+63 Nota
+13 ErroComissao
+24 ErroOmissao
+
+Nome: 
+Fase 4
+0 Nota
+6 ErroComissao
+13 ErroOmissao
+
+Nome: 
+Fase 5
+61 Nota
+5 ErroComissao
+5 ErroOmissao
+
+Nome: 
+Fase 0
+0 Nota
+19 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 1
+64 Nota
+1 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 1
+0 Nota
+16 ErroComissao
+3 ErroOmissao
+
+Nome: 
+Fase 2
+66 Nota
+7 ErroComissao
+8 ErroOmissao
+
+Nome: 
+Fase 2
+0 Nota
+13 ErroComissao
+6 ErroOmissao
+
+Nome: 
+Fase 3
+70 Nota
+9 ErroComissao
+6 ErroOmissao
+
+Nome: 
+Fase 3
+1 Nota
+12 ErroComissao
+8 ErroOmissao
+
+Nome: 
+Fase 4
+52 Nota
+15 ErroComissao
+26 ErroOmissao
+
+Nome: 
+Fase 4
+0 Nota
+11 ErroComissao
+8 ErroOmissao
+
+Nome: 
+Fase 5
+67 Nota
+9 ErroComissao
+10 ErroOmissao
+
+Nome: 
+Fase 1
+47 Nota
+2 ErroComissao
+2 ErroOmissao
+
+Nome: 
+Fase 2
+73 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 3
+76 Nota
+1 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 4
+76 Nota
+4 ErroComissao
+4 ErroOmissao
+
+Nome: 
+Fase 5
+63 Nota
+2 ErroComissao
+1 ErroOmissao
+
+Nome: 
+Fase 1
+64 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 2
+70 Nota
+5 ErroComissao
+3 ErroOmissao
+
+Nome: 
+Fase 3
+76 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 4
+71 Nota
+6 ErroComissao
+5 ErroOmissao
+
+Nome: 
+Fase 5
+75 Nota
+0 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 1
+64 Nota
+5 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 1
+41 Nota
+7 ErroComissao
+9 ErroOmissao
+
+Nome: 
+Fase 2
+70 Nota
+4 ErroComissao
+3 ErroOmissao
+
+Nome: 
+Fase 3
+74 Nota
+4 ErroComissao
+2 ErroOmissao
+
+Nome: 
+Fase 1
+64 Nota
+2 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 2
+73 Nota
+2 ErroComissao
+0 ErroOmissao
+
+Nome: 
+Fase 3
+74 Nota
+4 ErroComissao
+4 ErroOmissao
+
+Nome: 
+Fase 4
+68 Nota
+5 ErroComissao
+9 ErroOmissao
+
+Nome: 
+Fase 5
+78 Nota
+3 ErroComissao
+2 ErroOmissao
